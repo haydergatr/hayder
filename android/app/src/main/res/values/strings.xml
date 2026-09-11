@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">H.g Music</string>
+    <string name="title_activity_main">H.g Music</string>
+    <string name="package_name">com.hayder.hgmusic</string>
+    <string name="custom_url_scheme">com.hayder.hgmusic</string>
+</resources>
